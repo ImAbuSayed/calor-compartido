@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas conmigo
+> Bajo las luces de neón buscando un motivo
+> Ese calor compartido me tiene adictivo
+> Solo ven, mi nena, que yo soy tu cautivo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
