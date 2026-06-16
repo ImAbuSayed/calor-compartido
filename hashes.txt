@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calor compartido
+
+This log tracks the cryptographic history and versioning for the song **Calor compartido** (calor-compartido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-16T13:28:25.328585 | `v1` | `c1dae4b50d35cc315adac140d4fabc603077bb9a423e2173fe4c2901bc0aee2c` | `6cee5e7ee26687d55cb931cfa4aa9f71dfcce4bbab3e45ccddf9334e4f718d1a` | `2026-06-16_calor-compartido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
